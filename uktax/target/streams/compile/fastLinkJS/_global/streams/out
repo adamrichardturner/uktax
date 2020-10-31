@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing /Users/adamturner/OneDrive/GitHub/uktax/uktax/target/scala-2.13/hello-world-fastopt[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 348485 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 23389 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: 395736 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Batch mode: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Incremental part: 102150 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizing 2238 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizer part: 551986 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: 660672 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 42503 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 3395 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 51614 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Calculate Dependency Info: 1903 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Analyze Modules: 202 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Assemble Modules: 5816 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: 9759 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Generate Classes: 272616 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Write trees: 21041 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: The set of dangerous global refs has changed. Going to re-generate the world.[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Generate Classes: 122413 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Write trees: 2466 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 0 -- invalidated: 482[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: reused: 0 -- invalidated: 1530[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: 441060 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: Write result: 114850 us[0m

@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [uktax / Compile / run] Found inputs: /Users/adamturner/OneDrive/GitHub/uktax/uktax/*.{java,scala},/Users/adamturner/OneDrive/GitHub/uktax/uktax/src/main/java/**/*.{java,scala},/Users/adamturner/OneDrive/GitHub/uktax/uktax/src/main/resources/**/*,/Users/adamturner/OneDrive/GitHub/uktax/uktax/src/main/scala/**/*.{java,scala},/Users/adamturner/OneDrive/GitHub/uktax/uktax/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for uktax/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run(iflast shell).[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run(iflast shell).[0m
